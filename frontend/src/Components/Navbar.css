@@ -1,0 +1,28 @@
+.navbar-background{
+    background: #EBF4DD;
+}
+
+
+.support-brand{
+    font-weight: bold;
+    text-shadow: 2px 1px 2px gray;
+    letter-spacing: 2px;
+}
+
+
+.create-ticket-btn{
+    margin-right: 10px;
+}
+
+
+.initials{
+    border: 1px solid black;
+    width: 25px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+
+}

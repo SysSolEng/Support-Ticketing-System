@@ -1,0 +1,30 @@
+.add-ticket-button{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.dashboard-total-tickets{
+    text-align: center;
+    color: green;
+    letter-spacing: 2px;
+}
+
+.dashboard-pending-tickets{
+    text-align: center;
+    color: green;
+    letter-spacing: 2px;
+}
+
+.divider-line{
+    border: none;
+    border-top: 2px dotted gray;
+}
+
+
+.recently-added-tickets-heading{
+    letter-spacing: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: green;
+}
